@@ -10,6 +10,7 @@ namespace NavalBattle
             player1.SetPlayerNameNumber(player1);
             player1.CreateMap();
             player1.ShowMap();
+            player1
             
             Player player2 = new Player();
             player2.SetPlayerNameNumber(player2);
