@@ -4,12 +4,8 @@ using System.Text;
 
 namespace NavalBattle
 {
-    public class Game
+    public class Ship
     {
-        public void Shot(Cell cell)
-        {
-
-        }
-
+        public int ShipDeck { get; set; }
     }
 }

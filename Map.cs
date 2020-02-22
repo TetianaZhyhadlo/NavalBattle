@@ -46,5 +46,9 @@ namespace NavalBattle
             }
             Console.WriteLine();
         }
+        public void FillShip()
+        {
+
+        }
     }
 }
